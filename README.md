@@ -1,2 +1,3 @@
-# Books
-This Repo for ECN BOOKs
+```
+npx tailwindcss -i ./src/input.css -o ./src/style.css --watch
+```
